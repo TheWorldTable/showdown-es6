@@ -1,0 +1,25 @@
+{
+  "name": "showdown-es6",
+  "version": "1.0.0",
+  "description": "es6 shim for showdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWorldTable/showdown-es6.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "Mike Scalora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWorldTable/showdown-es6/issues"
+  },
+  "homepage": "https://github.com/TheWorldTable/showdown-es6#readme",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
